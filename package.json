@@ -1,0 +1,26 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "- Sobre\r - Layout\r - Tecnologias utilizadas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuzianeFreitas/nlw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuzianeFreitas/nlw/issues"
+  },
+  "homepage": "https://github.com/LuzianeFreitas/nlw#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
