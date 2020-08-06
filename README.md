@@ -1,4 +1,4 @@
-# *🚧 Em desenvolvimento 🚧*
+# <center>🚧 Em desenvolvimento 🚧</center>
 ## 📋 Sumário
 - Sobre
 - Layout
