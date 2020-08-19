@@ -1,15 +1,15 @@
 :root {
     /* Variaveis css */
     --color-background: #F0F0F7;
-    --color-primary-lighter: #9871F5;
-    --color-primary-light: #916BEA;
-    --color-primary: #8257E5;
-    --color-primary-dark: #774DD6;
+    --color-primary-lighter: #0000ff;
+    --color-primary-light: #4040ff;
+    --color-primary: #000080;
+    --color-primary-dark: #0000CD;
     --color-primary-darker: #6842c2;
-    --color-secondary: #04D361;
-    --color-secondary-dark: #04BF58;
+    --color-secondary: #ffa500;
+    --color-secondary-dark: #ffbc40;
     --color-title-in-primary: #FFFFFF;
-    --color-text-in-primary: #D4C2FF;
+    --color-text-in-primary: #ADD8E6;
     --color-text-title: #32264D;
     --color-text-complement: #9C98A6;
     --color-text-base: #6A6180;

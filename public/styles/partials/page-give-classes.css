@@ -91,7 +91,7 @@
     width: 100%;
     height: 5.6rem;
     background: var(--color-secondary);
-    color: car(--color-button-text);
+    color: var(--color-button-text);
     border: 0;
     border-radius: 0.8rem;
     cursor: pointer;
