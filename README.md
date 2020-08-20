@@ -1,5 +1,13 @@
 <h1 align="center"> Proffy </h1>
 
+<h4 align = "center">
+  Visualização de funcionamento da aplicação.
+</h4>
+
+<p align="center">
+<img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1597882338/Proffy-_-Sua-plataforma-de-estudos-online_u3zsfw.gif">
+</p>
+
 ## 📋 Sumário
 - [Sobre](#-Sobre)
 - [Layout](#-Layout)
