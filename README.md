@@ -5,7 +5,7 @@
 </h4>
 
 <p align="center">
-<img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1597882338/Proffy-_-Sua-plataforma-de-estudos-online_u3zsfw.gif">
+<img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1597888391/Proffy-_-Sua-plataforma-de-estudos-online_eb1up4.gif">
 </p>
 
 ## 📋 Sumário
