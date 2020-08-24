@@ -4,8 +4,23 @@
   Visualização de funcionamento da aplicação.
 </h4>
 
+<h4>Tela inicial</h4>
 <p align="center">
-<img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1597882338/Proffy-_-Sua-plataforma-de-estudos-online_u3zsfw.gif">
+<img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1598287185/video1_ykob40.gif">
+</p>
+<h4>Tela de cadastro</h4>
+<p align="center">
+<img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1598287185/video2_mpceld.gif">
+</p>
+<p align="center">
+<img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1598287186/video3_u9fyaj.gif">
+</p>
+<p align="center">
+<img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1598289063/video4_godo9d.gif">
+</p>
+<h4>Tela de lista de aulas</h4>
+<p align="center">
+<img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1598290032/video5_lc4vgc.gif">
 </p>
 
 ## 📋 Sumário
